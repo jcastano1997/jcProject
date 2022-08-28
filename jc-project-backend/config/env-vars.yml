@@ -1,0 +1,9 @@
+development:
+  DATABASE_URL: 'postgresql://postgres:postgres@localhost:5432/rails_dev_db_2'
+  SECRET_KEY_BASE: '23149fbda408257400c17d5bae14f3dc782124532cfd9bfab299ed14dc31f88e061baa59122c2bb8c6bead57f6fe87c1a666951611d5dcfa30c74f20bf03dec0e3'
+  LANG: 'en_US.UTF-8'
+  USE_LOGRAGE: 'true'
+  RAILS_SERVE_STATIC_FILES: 'enabled'
+  RAILS_ENV: 'development'
+  RACK_ENV: 'development'
+  LOG_LEVEL: 'debug'
